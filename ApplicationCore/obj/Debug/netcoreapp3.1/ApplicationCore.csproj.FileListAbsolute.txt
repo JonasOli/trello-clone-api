@@ -1,0 +1,8 @@
+C:\Users\Jonas\Projetos\TrelloCloneApi\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Jonas\Projetos\TrelloCloneApi\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Jonas\Projetos\TrelloCloneApi\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Jonas\Projetos\TrelloCloneApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Jonas\Projetos\TrelloCloneApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Jonas\Projetos\TrelloCloneApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Projetos\TrelloCloneApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Jonas\Projetos\TrelloCloneApi\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb

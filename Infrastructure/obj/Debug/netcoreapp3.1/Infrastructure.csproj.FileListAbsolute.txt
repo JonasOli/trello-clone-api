@@ -1,0 +1,15 @@
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Jonas\Projetos\TrelloCloneApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
